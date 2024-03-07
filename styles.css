@@ -39,6 +39,7 @@ ul {
 
 img {
     max-width: 60%;
+    max-height: 40%;
     height: auto;
     display: block;
     margin: 20px auto;
